@@ -1,0 +1,8 @@
+{
+  "name": "DMSSA_Games",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
